@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "String_left_rotation", "String_left_rotation\String_left_rotation.vcxproj", "{9EDE6EBF-9495-435D-B825-654D28073FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EDE6EBF-9495-435D-B825-654D28073FAA}.Debug|x64.ActiveCfg = Debug|x64
+		{9EDE6EBF-9495-435D-B825-654D28073FAA}.Debug|x64.Build.0 = Debug|x64
+		{9EDE6EBF-9495-435D-B825-654D28073FAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{9EDE6EBF-9495-435D-B825-654D28073FAA}.Debug|x86.Build.0 = Debug|Win32
+		{9EDE6EBF-9495-435D-B825-654D28073FAA}.Release|x64.ActiveCfg = Release|x64
+		{9EDE6EBF-9495-435D-B825-654D28073FAA}.Release|x64.Build.0 = Release|x64
+		{9EDE6EBF-9495-435D-B825-654D28073FAA}.Release|x86.ActiveCfg = Release|Win32
+		{9EDE6EBF-9495-435D-B825-654D28073FAA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B121F48C-0868-4B97-BF62-8DB4B8A9EF95}
+	EndGlobalSection
+EndGlobal
